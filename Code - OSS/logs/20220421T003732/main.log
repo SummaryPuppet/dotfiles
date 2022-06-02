@@ -1,0 +1,13 @@
+[2022-04-21 00:37:33.693] [main] [info] window#load: attempt to load window (id: 1)
+[2022-04-21 00:37:33.928] [main] [info] window#load: attempt to load window (id: 2)
+[2022-04-21 00:37:33.949] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-04-21 00:37:34.693] [main] [info] ExtensionHostStarterWorker created
+[2022-04-21 00:37:42.919] [main] [info] window#load: window reported ready (id: 2)
+[2022-04-21 00:37:42.996] [main] [info] window#load: window reported ready (id: 1)
+[2022-04-21 00:37:43.394] [main] [info] Starting extension host with pid 5436 (fork() took 64 ms).
+[2022-04-21 00:37:43.395] [main] [info] ExtensionHostStarterWorker.start() took 69 ms.
+[2022-04-21 00:37:44.190] [main] [info] Starting extension host with pid 5460 (fork() took 21 ms).
+[2022-04-21 00:37:44.191] [main] [info] ExtensionHostStarterWorker.start() took 31 ms.
+[2022-04-21 00:39:45.270] [main] [info] Extension host with pid 5436 exited with code: 0, signal: null.
+[2022-04-21 01:02:52.419] [main] [info] Waiting for extension host with pid 5460 to exit.
+[2022-04-21 01:02:53.936] [main] [info] Extension host with pid 5460 exited with code: 0, signal: null.

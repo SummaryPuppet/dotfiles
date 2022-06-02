@@ -1,0 +1,14 @@
+[2022-03-09 15:00:46.676] [main] [info] window#load: attempt to load window (id: 1)
+[2022-03-09 15:00:46.862] [main] [info] window#load: attempt to load window (id: 2)
+[2022-03-09 15:00:46.883] [main] [info] update#ctor - updates are disabled as there is no update URL
+[2022-03-09 15:00:47.031] [main] [info] ExtensionHostStarterWorker created
+[2022-03-09 15:00:51.800] [main] [info] window#load: window reported ready (id: 1)
+[2022-03-09 15:00:51.895] [main] [info] window#load: window reported ready (id: 2)
+[2022-03-09 15:00:52.598] [main] [info] Starting extension host with pid 5191 (fork() took 25 ms).
+[2022-03-09 15:00:52.602] [main] [info] ExtensionHostStarterWorker.start() took 135 ms.
+[2022-03-09 15:00:52.813] [main] [info] Starting extension host with pid 5192 (fork() took 35 ms).
+[2022-03-09 15:00:52.813] [main] [info] ExtensionHostStarterWorker.start() took 134 ms.
+[2022-03-09 15:13:18.282] [main] [info] Waiting for extension host with pid 5191 to exit.
+[2022-03-09 15:13:18.285] [main] [info] Waiting for extension host with pid 5192 to exit.
+[2022-03-09 15:13:18.285] [main] [info] Extension host with pid 5192 exited with code: 0, signal: null.
+[2022-03-09 15:13:18.339] [main] [info] Extension host with pid 5191 exited with code: 0, signal: null.

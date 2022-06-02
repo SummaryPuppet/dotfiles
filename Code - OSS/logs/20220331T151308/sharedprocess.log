@@ -1,0 +1,10 @@
+[2022-03-31 15:13:24.189] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /home/adrian/.vscode-oss/extensions/esbenp.prettier-vscode-9.3.0
+[2022-03-31 15:13:25.684] [sharedprocess] [info] Starting worker process with pid 5156 (type: fileWatcher, window: 1).
+[2022-03-31 15:13:27.128] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-31 15:13:31.029] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-03-31 15:13:32.787] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-03-31 15:13:35.106] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/adrian/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.15.0
+[2022-03-31 15:13:41.004] [sharedprocess] [info] Extracted extension to /home/adrian/.vscode-oss/extensions/.8fba4cc1-8288-472c-91d8-0a5daaf3e7af: pkief.material-icon-theme
+[2022-03-31 15:13:41.083] [sharedprocess] [info] Renamed to /home/adrian/.vscode-oss/extensions/pkief.material-icon-theme-4.15.0
+[2022-03-31 15:13:41.092] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-03-31 15:13:41.144] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme

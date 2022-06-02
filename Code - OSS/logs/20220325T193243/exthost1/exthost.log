@@ -1,0 +1,31 @@
+[2022-03-25 19:32:57.891] [exthost] [info] Extension host with pid 10473 started
+[2022-03-25 19:32:57.891] [exthost] [info] Skipping acquiring lock for /home/adrian/.config/Code - OSS/User/workspaceStorage/1a71324df7df48c25e90dbe60d926460.
+[2022-03-25 19:32:58.762] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-03-25 19:32:59.236] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-03-25 19:33:00.079] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-25 19:33:00.132] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-25 19:33:00.188] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-25 19:33:00.525] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-25 19:33:00.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-25 19:33:01.937] [exthost] [info] Eager extensions activated
+[2022-03-25 19:33:02.033] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 19:33:02.124] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 19:33:02.177] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 19:33:03.691] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 19:34:35.788] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-25 19:34:35.866] [exthost] [info] Extension host with pid 10473 exiting with code 0
+[2022-03-25 19:34:44.358] [exthost] [info] Extension host with pid 10617 started
+[2022-03-25 19:34:44.358] [exthost] [info] Skipping acquiring lock for /home/adrian/.config/Code - OSS/User/workspaceStorage/b4af9d71e441d6384b672c1a5d568215.
+[2022-03-25 19:34:44.587] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-25 19:34:44.604] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-25 19:34:44.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-25 19:34:44.735] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-25 19:34:44.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-25 19:34:45.127] [exthost] [info] Eager extensions activated
+[2022-03-25 19:34:45.550] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 19:34:45.567] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 19:34:45.573] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 19:34:46.437] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-25 19:34:46.615] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-03-25 22:07:43.883] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-25 22:07:43.913] [exthost] [info] Extension host with pid 10617 exiting with code 0

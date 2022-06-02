@@ -1,0 +1,30 @@
+[2022-03-09 15:13:59.438] [renderer2] [critical] Extension 'ms-python.python CANNOT USE these API proposals 'quickPickSortByLabel, testObserver, notebookEditor'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-03-09 15:13:59.468] [renderer2] [critical] Extension 'ms-toolsai.jupyter CANNOT USE these API proposals 'notebookConcatTextDocument, notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookEditor, notebookEditorDecorationType, notebookEditorEdit, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, textDocumentNotebook, quickPickSortByLabel'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+[2022-03-09 15:14:05.894] [renderer2] [error] [Extension Host] extension activation failed Error: Extension 'ms-toolsai.jupyter' CANNOT use API proposal: notebookEditor.
+Its package.json#enabledApiProposals-property declares:  but NOT notebookEditor.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-toolsai.jupyter
+	at b (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:83:64781)
+	at Object.onDidChangeCellMetadata (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:99:51827)
+	at u.addEventHandlers (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:49093)
+	at new u (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:47758)
+	at Object.t.resolveInstance (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2746267)
+	at /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2748163
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2746041)
+	at /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2748163
+	at /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2747111
+	at Array.map (<anonymous>)
+	at /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2747083
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2746041)
+	at /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2748163
+	at Object.t.resolve (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2748426)
+	at /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2734496
+	at e._get (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2734262)
+	at e.get (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:2732974)
+	at a.get (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:1077671)
+	at /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:1073811
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:4550797
+	at async e.activate (/home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114/out/client/extension.js:2:4550474)
+	at async Promise.all (index 1)

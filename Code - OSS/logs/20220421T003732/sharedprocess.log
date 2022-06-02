@@ -1,0 +1,37 @@
+[2022-04-21 00:37:48.190] [sharedprocess] [info] Deleted from disk pkief.material-icon-theme /home/adrian/.vscode-oss/extensions/pkief.material-icon-theme-4.14.1
+[2022-04-21 00:37:48.666] [sharedprocess] [info] Starting worker process with pid 5496 (type: fileWatcher, window: 1).
+[2022-04-21 00:37:48.668] [sharedprocess] [info] Starting worker process with pid 5497 (type: fileWatcher, window: 2).
+[2022-04-21 00:37:51.879] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-04-21 00:37:57.550] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-04-21 00:37:57.557] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-04-21 00:37:57.688] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-04-21 00:37:57.695] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-04-21 00:37:59.065] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-04-21 00:37:59.069] [sharedprocess] [info] Extensions is already requested to install pkief.material-icon-theme
+[2022-04-21 00:37:59.533] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-04-21 00:37:59.538] [sharedprocess] [info] Extensions is already requested to install ms-python.python
+[2022-04-21 00:38:07.100] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/adrian/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.16.0
+[2022-04-21 00:38:12.072] [sharedprocess] [info] Extracted extension to /home/adrian/.vscode-oss/extensions/.b27213d6-fd05-46ec-b818-ccac09a217fa: pkief.material-icon-theme
+[2022-04-21 00:38:12.162] [sharedprocess] [info] Renamed to /home/adrian/.vscode-oss/extensions/pkief.material-icon-theme-4.16.0
+[2022-04-21 00:38:12.172] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-04-21 00:38:12.226] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-04-21 00:38:28.749] [sharedprocess] [info] Getting Manifest... rust-lang.rust
+[2022-04-21 00:38:28.998] [sharedprocess] [info] Installing extension: rust-lang.rust
+[2022-04-21 00:38:32.104] [sharedprocess] [info] Downloaded extension: rust-lang.rust /home/adrian/.config/Code - OSS/CachedExtensionVSIXs/rust-lang.rust-0.7.8
+[2022-04-21 00:38:32.744] [sharedprocess] [info] Extracted extension to /home/adrian/.vscode-oss/extensions/.221a716e-102d-4756-a92e-4553e1ca11a4: rust-lang.rust
+[2022-04-21 00:38:32.848] [sharedprocess] [info] Renamed to /home/adrian/.vscode-oss/extensions/rust-lang.rust-0.7.8
+[2022-04-21 00:38:32.856] [sharedprocess] [info] Extracting completed. rust-lang.rust
+[2022-04-21 00:38:32.863] [sharedprocess] [info] Extension installed successfully: rust-lang.rust
+[2022-04-21 00:38:56.377] [sharedprocess] [info] Downloaded extension: ms-python.python /home/adrian/.config/Code - OSS/CachedExtensionVSIXs/ms-python.python-2022.4.1
+[2022-04-21 00:39:10.098] [sharedprocess] [info] Extracted extension to /home/adrian/.vscode-oss/extensions/.2c72fa42-e056-4339-b942-b3897be6c851: ms-python.python
+[2022-04-21 00:39:10.188] [sharedprocess] [info] Renamed to /home/adrian/.vscode-oss/extensions/ms-python.python-2022.4.1
+[2022-04-21 00:39:10.206] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-04-21 00:39:10.281] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-04-21 00:39:28.371] [sharedprocess] [info] Getting Manifest... vscodevim.vim
+[2022-04-21 00:39:28.634] [sharedprocess] [info] Installing extension: vscodevim.vim
+[2022-04-21 00:39:38.400] [sharedprocess] [info] Downloaded extension: vscodevim.vim /home/adrian/.config/Code - OSS/CachedExtensionVSIXs/vscodevim.vim-1.22.2
+[2022-04-21 00:39:38.876] [sharedprocess] [info] Extracted extension to /home/adrian/.vscode-oss/extensions/.55588c89-0fbe-48ae-ac80-51f752cd3ba5: vscodevim.vim
+[2022-04-21 00:39:39.147] [sharedprocess] [info] Renamed to /home/adrian/.vscode-oss/extensions/vscodevim.vim-1.22.2
+[2022-04-21 00:39:39.155] [sharedprocess] [info] Extracting completed. vscodevim.vim
+[2022-04-21 00:39:39.166] [sharedprocess] [info] Extension installed successfully: vscodevim.vim
+[2022-04-21 00:39:45.195] [sharedprocess] [info] Worker process with pid 5497 terminated normally (type: fileWatcher, window: 2).

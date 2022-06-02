@@ -1,0 +1,11 @@
+[2022-03-29 14:38:05.128] [sharedprocess] [info] Deleted from disk dracula-theme.theme-dracula /home/adrian/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.1
+[2022-03-29 14:38:07.453] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-29 14:38:10.480] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.2.1010641114
+[2022-03-29 14:38:13.237] [sharedprocess] [info] Starting worker process with pid 2233 (type: fileWatcher, window: 1).
+[2022-03-29 14:38:22.018] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-03-29 14:38:24.344] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-03-29 14:38:52.255] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/adrian/.config/Code - OSS/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-03-29 14:39:03.172] [sharedprocess] [info] Extracted extension to /home/adrian/.vscode-oss/extensions/.7101102d-a8a3-448e-92c2-1bf253ee937b: esbenp.prettier-vscode
+[2022-03-29 14:39:03.267] [sharedprocess] [info] Renamed to /home/adrian/.vscode-oss/extensions/esbenp.prettier-vscode-9.5.0
+[2022-03-29 14:39:03.297] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-03-29 14:39:03.473] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode

@@ -1,0 +1,13 @@
+file:///home/adrian/coding/intento/src/components/Form/Form.jsx {"mtime":1646605525230,"ctime":1646605229347,"size":285,"etag":"38d6g7m3096","orphaned":false,"typeId":""}
+function Form() {
+  const preventDefault = (e) => e.preventDefault;
+
+  return (
+    <form onSubmit={preventDefault} action="">
+      <input type="text" placeholder="name" />
+      <textarea name="description" id="" cols="30" rows="10"></textarea>
+    </form>
+  );
+}
+
+export default Form;

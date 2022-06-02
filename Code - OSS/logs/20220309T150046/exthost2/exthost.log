@@ -1,0 +1,16 @@
+[2022-03-09 15:00:56.069] [exthost] [info] Extension host with pid 5192 started
+[2022-03-09 15:00:56.069] [exthost] [info] Skipping acquiring lock for /home/adrian/.config/Code - OSS/User/workspaceStorage/2ead59c75040e981b7174406069ff0c7.
+[2022-03-09 15:00:57.056] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-03-09 15:00:57.470] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-03-09 15:00:58.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-09 15:00:58.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-09 15:00:58.518] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-09 15:00:58.781] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-09 15:00:58.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-09 15:01:00.817] [exthost] [info] Eager extensions activated
+[2022-03-09 15:01:01.169] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-09 15:01:01.225] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-09 15:01:01.255] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-09 15:01:02.720] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-09 15:13:18.182] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-03-09 15:13:18.231] [exthost] [info] Extension host with pid 5192 exiting with code 0

@@ -1,0 +1,27 @@
+[2022-04-21 00:37:48.943] [exthost] [info] Extension host with pid 5460 started
+[2022-04-21 00:37:48.943] [exthost] [info] Skipping acquiring lock for /home/adrian/.config/Code - OSS/User/workspaceStorage/97f6c1cbe2d6302cc86c7990372cd941.
+[2022-04-21 00:37:50.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-21 00:37:50.070] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-04-21 00:37:50.091] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-21 00:37:50.307] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-04-21 00:37:50.500] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-04-21 00:37:50.819] [exthost] [info] Eager extensions activated
+[2022-04-21 00:37:51.180] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 00:37:51.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 00:37:51.301] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 00:37:51.934] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-04-21 00:39:39.902] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: '*'
+[2022-04-21 00:46:48.001] [exthost] [info] ExtensionService#_doActivateExtension rust-lang.rust, startup: false, activationEvent: 'onLanguage:rust'
+[2022-04-21 01:02:52.359] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-21 01:02:53.898] [exthost] [error] TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 't'
+    |     property '_readableState' -> object with constructor 'M'
+    |     property 'pipes' -> object with constructor 'Array'
+    |     index 0 -> object with constructor 't.ConsoleForElectron'
+    --- property 'parent' closes the circle
+    at JSON.stringify (<anonymous>)
+    at async (/home/adrian/.vscode-oss/extensions/vscodevim.vim-1.22.2/src/register/register.ts:357:16)
+    at Object.e.deactivate (/home/adrian/.vscode-oss/extensions/vscodevim.vim-1.22.2/extension.ts:64:8)
+    at async Promise.all (index 10)
+    at deactivateAll (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:90:10249)
+[2022-04-21 01:02:53.898] [exthost] [info] Extension host with pid 5460 exiting with code 0

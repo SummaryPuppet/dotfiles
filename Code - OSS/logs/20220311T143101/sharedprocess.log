@@ -1,0 +1,5 @@
+[2022-03-11 14:31:50.010] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-11 14:31:56.171] [sharedprocess] [error] No ptyHost heartbeat after 12 seconds
+[2022-03-11 14:32:39.091] [sharedprocess] [info] Starting worker process with pid 1115 (type: fileWatcher, window: 2).
+[2022-03-11 14:32:39.431] [sharedprocess] [info] Starting worker process with pid 1116 (type: fileWatcher, window: 1).
+[2022-03-11 16:56:11.912] [sharedprocess] [info] Worker process with pid 1115 terminated normally (type: fileWatcher, window: 2).

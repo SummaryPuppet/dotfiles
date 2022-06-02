@@ -1,0 +1,17 @@
+[2022-03-25 19:32:58.321] [sharedprocess] [info] Starting worker process with pid 10524 (type: fileWatcher, window: 1).
+[2022-03-25 19:33:02.638] [sharedprocess] [info] Getting Manifest... dracula-theme.theme-dracula
+[2022-03-25 19:33:02.958] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-03-25 19:33:05.159] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2022-03-25 19:33:05.579] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-03-25 19:33:07.139] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/adrian/.config/Code - OSS/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.24.2
+[2022-03-25 19:33:07.297] [sharedprocess] [info] Extracted extension to /home/adrian/.vscode-oss/extensions/.9c329fdb-2f99-41d5-a4fd-09c2dd709f8e: dracula-theme.theme-dracula
+[2022-03-25 19:33:07.349] [sharedprocess] [info] Renamed to /home/adrian/.vscode-oss/extensions/dracula-theme.theme-dracula-2.24.2
+[2022-03-25 19:33:07.357] [sharedprocess] [info] Extracting completed. dracula-theme.theme-dracula
+[2022-03-25 19:33:07.411] [sharedprocess] [info] Extension installed successfully: dracula-theme.theme-dracula
+[2022-03-25 19:33:55.174] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/adrian/.config/Code - OSS/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.3.1000752054
+[2022-03-25 19:33:59.507] [sharedprocess] [info] Extracted extension to /home/adrian/.vscode-oss/extensions/.f20f2b07-9dd9-49a1-97e6-e6aded363288: ms-toolsai.jupyter
+[2022-03-25 19:33:59.616] [sharedprocess] [info] Renamed to /home/adrian/.vscode-oss/extensions/ms-toolsai.jupyter-2022.3.1000752054
+[2022-03-25 19:33:59.643] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-03-25 19:33:59.716] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-03-25 19:34:35.871] [sharedprocess] [info] Worker process with pid 10524 terminated normally (type: fileWatcher, window: 1).
+[2022-03-25 19:34:41.750] [sharedprocess] [info] Starting worker process with pid 10618 (type: fileWatcher, window: 1).
