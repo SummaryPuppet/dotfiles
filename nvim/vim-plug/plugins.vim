@@ -18,11 +18,9 @@ Plug 'alvan/vim-closetag' " Html close tags
 Plug 'pangloss/vim-javascript'    " JavaScript
 Plug 'leafgarland/typescript-vimleafgarland/typescript-vim' " Typescript
 Plug 'iamcco/coc-tailwindcss',  {'do': 'yarn install --frozen-l  lockfile && yarn run build'}
-Plug 'vim-python/python-syntax'
 Plug 'rust-lang/rust.vim'   " Rust
-
-" Theme
-Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'vim-python/python-syntax'
+Plug 'pappasam/coc-jedi', { 'do': 'yarn install --frozen-lockfile && yarn build', 'branch': 'main' } "Python
 
 call plug#end()
 
@@ -42,8 +40,3 @@ nmap <silent> gi <Plug>(coc-implementation)
 let g:coc_global_extensions = ['coc-tsserver']
 " Python syntax
 let g:python_highlight_all = 1
-
-" Theme
-set background=dark
-let ayucolor='dark'
-colorscheme dracula

@@ -1,6 +1,6 @@
 {
   "coc-rust-analyzer|global": {
-    "release": "2022-05-17"
+    "release": "2022-06-27"
   },
   "coc-python|/home/adrian": {
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
@@ -33,7 +33,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1655856294469
+      "expiry": 1656608863304
     },
     "/bin/python3.10.v3": {
       "data": {
@@ -58,7 +58,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1655856294518
+      "expiry": 1656608863327
     },
     "/usr/sbin/python.v3": {
       "data": {
@@ -83,7 +83,7 @@
         "sysPrefix": "/usr",
         "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16"
       },
-      "expiry": 1655856294402
+      "expiry": 1656608863306
     },
     "/usr/bin/python3.10.v3": {
       "data": {
@@ -108,7 +108,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1655856294527
+      "expiry": 1656608863334
     },
     "/bin/python3.v3": {
       "data": {
@@ -133,7 +133,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1655856294521
+      "expiry": 1656608863329
     },
     "/bin/python.v3": {
       "data": {
@@ -158,7 +158,7 @@
         "sysPrefix": "/usr",
         "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16"
       },
-      "expiry": 1655856294524
+      "expiry": 1656608863332
     },
     "/usr/bin/python3.v3": {
       "data": {
@@ -183,7 +183,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1655856294530
+      "expiry": 1656608863337
     },
     "/usr/bin/python.v3": {
       "data": {
@@ -208,7 +208,7 @@
         "sysPrefix": "/usr",
         "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16"
       },
-      "expiry": 1655856294533
+      "expiry": 1656608863340
     },
     "INTERPRETERS_CACHE_v3_CurrentPathService": [
       {
@@ -302,7 +302,8 @@
       },
       "sysPrefix": "/usr",
       "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16",
-      "type": "Unknown"
+      "type": "Unknown",
+      "cachedEntry": true
     },
     "preferredGlobalPyInterpreter": {
       "architecture": 3,
@@ -350,7 +351,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1655856294582
+      "expiry": 1656608863380
     },
     "/sbin/python3.v3": {
       "data": {
@@ -375,7 +376,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1655856294584
+      "expiry": 1656608863382
     },
     "/sbin/python.v3": {
       "data": {
@@ -400,7 +401,7 @@
         "sysPrefix": "/usr",
         "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16"
       },
-      "expiry": 1655856294587
+      "expiry": 1656608863384
     },
     "/usr/sbin/python3.10.v3": {
       "data": {
@@ -425,7 +426,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1655856294406
+      "expiry": 1656608863300
     },
     "INTERPRETERS_CACHE_v3_KnownPathsService": [
       {
@@ -849,7 +850,7 @@
         "displayName": "Python 3.10.2 64-bit",
         "hash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16-d4a284ed1eff5b86f5ce6d4124084d4a"
       },
-      "expiry": 1655856295202
+      "expiry": 1656608863457
     },
     "/bin/python.interpreter.displayName.v7": {
       "data": {
@@ -894,6 +895,7 @@
       "sysPrefix": "/usr",
       "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16",
       "type": "Unknown",
+      "cachedEntry": true,
       "displayName": "Python 3.10.2 64-bit"
     },
     "/usr/bin/python.interpreter.Details.v7": {
@@ -921,10 +923,12 @@
           "sysPrefix": "/usr",
           "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16",
           "type": "Unknown",
-          "displayName": "Python 3.10.2 64-bit"
+          "cachedEntry": true,
+          "displayName": "Python 3.10.2 64-bit",
+          "__store": true
         }
       },
-      "expiry": 1655857035826
+      "expiry": 1656608863400
     },
     "/bin/python.interpreter.Details.v7": {
       "data": {
@@ -1038,6 +1042,7 @@
       "sysPrefix": "/usr",
       "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16",
       "type": "Unknown",
+      "cachedEntry": true,
       "displayName": "Python 3.10.2 64-bit"
     },
     "ProposeLSBanner": false

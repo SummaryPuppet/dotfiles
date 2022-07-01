@@ -20,4 +20,5 @@ map <C-/> <C-v>"x
 " Pluggins
 source ~/.config/nvim/vim-plug/plugins.vim
 
-
+" Theme
+source ~/.config/nvim/vim-plug/theme.vim
