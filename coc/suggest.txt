@@ -1,3 +1,4 @@
+|plugins|file
 na|nature|around
 enf|enfocado|around
 on|onedark|around
@@ -996,4 +997,3 @@ asyn|async|tsserver-javascript
 dir|dirPath|around
 |access|tsserver-javascript
 pro|promises|tsserver-javascript
-pa|platform|tsserver-javascript
