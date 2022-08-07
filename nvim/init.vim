@@ -10,15 +10,24 @@ set noswapfile
 set clipboard=unnamedplus
 set encoding=utf-8
 set termguicolors
+set ttyfast
 
 syntax enable
 filetype plugin indent on
 
-" Shortcuts 
-map <C-/> <C-v>"x
 
 " Pluggins
 source ~/.config/nvim/vim-plug/plugins.vim
 
+" Pluggins config
+source ~/.config/nvim/vim-plug/plugins-config.vim
+
 " Theme
 source ~/.config/nvim/vim-plug/theme.vim
+
+
+" Shortcuts 
+map <C-/> <C-v>"x
+:imap ii <Esc>
+
+noremap <leader>w :w<cr>

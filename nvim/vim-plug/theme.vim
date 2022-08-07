@@ -1,11 +1,6 @@
-call plug#begin('~/.local/share/nvim/plugged')
 
 "Plug 'dracula/vim', { 'as': 'dracula' }
-"Plug 'joshdick/onedark.vim'
 "Plug 'arcticicestudio/nord-vim'
-Plug 'wuelnerdotexe/vim-enfocado'
-
-call plug#end()
 
 set background=dark
 
@@ -18,5 +13,9 @@ set background=dark
 " Enfocado
 let g:enfocado_style = 'neon' "nature | neon
 
+" Material
+let g:material_theme_style = 'ocean' "default | '.palenight' | '.ocean' | 'lighter' | 'darker' | 'default-community' | 'palenight-community' | 'ocean-community' | 'lighter-community' | 'darker-community'
+
 " Set Theme
-colorscheme enfocado
+" colorscheme enfocado
+colorscheme material
