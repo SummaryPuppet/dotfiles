@@ -1,3 +1,12 @@
-2022/07/23-18:47:10.622 10a7 Reusing MANIFEST /home/adrian/.config/Postman/Partitions/f232a443-1d0e-4052-a6a8-4fba4c2814d2/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2022/07/23-18:47:10.623 10a7 Recovering log #13
-2022/07/23-18:47:10.751 10a7 Reusing old log /home/adrian/.config/Postman/Partitions/f232a443-1d0e-4052-a6a8-4fba4c2814d2/IndexedDB/file__0.indexeddb.leveldb/000013.log 
+2022/08/17-22:57:40.991 10bd Reusing MANIFEST /home/adrian/.config/Postman/Partitions/f232a443-1d0e-4052-a6a8-4fba4c2814d2/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/08/17-22:57:41.008 10bd Recovering log #13
+2022/08/17-22:57:41.219 10bd Reusing old log /home/adrian/.config/Postman/Partitions/f232a443-1d0e-4052-a6a8-4fba4c2814d2/IndexedDB/file__0.indexeddb.leveldb/000013.log 
+2022/08/17-23:04:53.393 1128 Level-0 table #18: started
+2022/08/17-23:04:53.627 1128 Level-0 table #18: 1467214 bytes OK
+2022/08/17-23:04:53.674 1128 Delete type=0 #13
+2022/08/17-23:05:55.524 1127 Compacting 1@1 + 1@2 files
+2022/08/17-23:05:55.673 1127 Generated table #19@1: 3942 keys, 382242 bytes
+2022/08/17-23:05:55.673 1127 Compacted 1@1 + 1@2 files => 382242 bytes
+2022/08/17-23:05:55.819 1127 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/17-23:05:55.820 1127 Delete type=2 #18
+2022/08/17-23:05:55.820 1127 Delete type=2 #15

@@ -15,6 +15,7 @@ Plug 'mattn/emmet-vim'
 
 " Format document
 Plug 'prettier/vim-prettier', { 'do': 'yarn install --frozen-lockfile --production' }
+Plug 'vim-autoformat/vim-autoformat'
 
 " Close 
 Plug 'jiangmiao/auto-pairs' " Close pairs
@@ -29,7 +30,12 @@ Plug 'pappasam/coc-jedi', { 'do': 'yarn install --frozen-lockfile && yarn build'
 Plug 'posva/vim-vue'
 Plug 'yaegassy/coc-volar', {'do': 'yarn install --frozen-lockfile'}
 Plug 'ekalinin/Dockerfile.vim' "Docker
+Plug 'beanworks/vim-phpfmt'
 
+Plug 'tpope/vim-projectionist'
+Plug 'noahfrederick/vim-composer'
+Plug 'noahfrederick/vim-laravel'
+Plug 'rodrigore/coc-tailwind-intellisense', {'do': 'npm install'}
 
 " Bar
 Plug 'vim-airline/vim-airline'

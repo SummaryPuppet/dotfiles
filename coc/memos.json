@@ -33,7 +33,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1659743778950
+      "expiry": 1661888021547
     },
     "/bin/python3.10.v3": {
       "data": {
@@ -58,7 +58,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1659743778984
+      "expiry": 1661888021115
     },
     "/usr/sbin/python.v3": {
       "data": {
@@ -83,7 +83,7 @@
         "sysPrefix": "/usr",
         "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16"
       },
-      "expiry": 1659743778953
+      "expiry": 1661888021561
     },
     "/usr/bin/python3.10.v3": {
       "data": {
@@ -108,7 +108,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1659743778993
+      "expiry": 1661888021179
     },
     "/bin/python3.v3": {
       "data": {
@@ -133,7 +133,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1659743778987
+      "expiry": 1661888021143
     },
     "/bin/python.v3": {
       "data": {
@@ -158,7 +158,7 @@
         "sysPrefix": "/usr",
         "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16"
       },
-      "expiry": 1659743778991
+      "expiry": 1661888021166
     },
     "/usr/bin/python3.v3": {
       "data": {
@@ -183,7 +183,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1659743779024
+      "expiry": 1661888021194
     },
     "/usr/bin/python.v3": {
       "data": {
@@ -208,7 +208,7 @@
         "sysPrefix": "/usr",
         "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16"
       },
-      "expiry": 1659743779021
+      "expiry": 1661888021208
     },
     "INTERPRETERS_CACHE_v3_CurrentPathService": [
       {
@@ -259,7 +259,7 @@
       },
       {
         "architecture": 3,
-        "path": "/usr/bin/python",
+        "path": "/home/adrian/code/PyStart/venv/bin/python3",
         "version": {
           "options": {
             "loose": false,
@@ -276,14 +276,14 @@
           "build": [],
           "version": "3.10.2-final"
         },
-        "sysPrefix": "/usr",
-        "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16",
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4",
         "type": "Unknown"
       }
     ],
     "InterpreterAutoSeletionRule-currentPath": {
       "architecture": 3,
-      "path": "/usr/bin/python",
+      "path": "/home/adrian/code/PyStart/venv/bin/python3",
       "version": {
         "options": {
           "loose": false,
@@ -300,8 +300,8 @@
         "build": [],
         "version": "3.10.2-final"
       },
-      "sysPrefix": "/usr",
-      "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16",
+      "sysPrefix": "/home/adrian/code/PyStart/venv",
+      "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4",
       "type": "Unknown"
     },
     "preferredGlobalPyInterpreter": {
@@ -350,7 +350,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1659743779031
+      "expiry": 1661888022083
     },
     "/sbin/python3.v3": {
       "data": {
@@ -375,7 +375,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1659743779034
+      "expiry": 1661888022096
     },
     "/sbin/python.v3": {
       "data": {
@@ -400,7 +400,7 @@
         "sysPrefix": "/usr",
         "fileHash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16"
       },
-      "expiry": 1659743779037
+      "expiry": 1661888021520
     },
     "/usr/sbin/python3.10.v3": {
       "data": {
@@ -425,7 +425,7 @@
         "sysPrefix": "/usr",
         "fileHash": "b6a42a1b7d9fc1e7a89a34115dfa7c8945ed1737fb0148d84394782790b663617fb06ad7948ae8518bbcf87da002a7212f8f780b931ffa77b8e0edbe1afefb99"
       },
-      "expiry": 1659743778945
+      "expiry": 1661888021533
     },
     "INTERPRETERS_CACHE_v3_KnownPathsService": [
       {
@@ -918,28 +918,28 @@
         "displayName": "Python 3.10.2 64-bit",
         "hash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16-d4a284ed1eff5b86f5ce6d4124084d4a"
       },
-      "expiry": 1659743779822
+      "expiry": 1661888025191
     },
     "/bin/python.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.10.2 64-bit",
         "hash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16-2c73f01aad3a7e747c5c7a9b265febdf"
       },
-      "expiry": 1659743779364
+      "expiry": 1661888023358
     },
     "/usr/sbin/python.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.10.2 64-bit",
         "hash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16-a365a29baba8849d4bb506146c31087a"
       },
-      "expiry": 1659743779369
+      "expiry": 1661888023382
     },
     "/sbin/python.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.10.2 64-bit",
         "hash": "a2b0bd6d7d0a56527e1f37cc66c69621d5955a133643f2a08725ebcc4e06230930c0a5cb06d72b0ec3f39feb3b533d8f91b2e1138493e4b56c776d4867c32e16-c14a84dc2f80cbf673359e83ae8558cc"
       },
-      "expiry": 1659743779373
+      "expiry": 1661888023401
     },
     "InterpreterAutoSeletionRule-system": {
       "architecture": 3,
@@ -993,7 +993,7 @@
           "displayName": "Python 3.10.2 64-bit"
         }
       },
-      "expiry": 1659743834185
+      "expiry": 1661889409962
     },
     "/bin/python.interpreter.Details.v7": {
       "data": {
@@ -1023,7 +1023,7 @@
           "displayName": "Python 3.10.2 64-bit"
         }
       },
-      "expiry": 1659743779426
+      "expiry": 1661888023671
     },
     "/usr/sbin/python.interpreter.Details.v7": {
       "data": {
@@ -1053,7 +1053,7 @@
           "displayName": "Python 3.10.2 64-bit"
         }
       },
-      "expiry": 1659743779434
+      "expiry": 1661888023710
     },
     "/sbin/python.interpreter.Details.v7": {
       "data": {
@@ -1083,7 +1083,7 @@
           "displayName": "Python 3.10.2 64-bit"
         }
       },
-      "expiry": 1659743779442
+      "expiry": 1661888023749
     },
     "InterpreterAutoSeletionRule-cachedInterpreters": {
       "architecture": 3,
@@ -1109,7 +1109,180 @@
       "type": "Unknown",
       "displayName": "Python 3.10.2 64-bit"
     },
-    "ProposeLSBanner": false
+    "ProposeLSBanner": false,
+    "/home/adrian/code/PyStart/venv/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/adrian/code/PyStart/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.2-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.2-final"
+        },
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "4e9996f8a1a5ee448574a0cf6dd2726f0789a48c043a0a04baba6d1a293bb4d781999e212ce66774c1b9be795af8a9a6db363b5eea5597e40d8e1ea5a0d2f4c6"
+      },
+      "expiry": 1661889408628
+    },
+    "/home/adrian/code/PyStart/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/adrian/code/PyStart/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.2-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.2-final"
+        },
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4"
+      },
+      "expiry": 1661889408695
+    },
+    "/home/adrian/code/PyStart/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/adrian/code/PyStart/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.2-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.2-final"
+        },
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4"
+      },
+      "expiry": 1661889409546
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/home/adrian/code/PyStart/venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.2-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.2-final"
+      },
+      "sysPrefix": "/home/adrian/code/PyStart/venv",
+      "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4",
+      "type": "VirtualEnv"
+    },
+    "/home/adrian/code/PyStart/venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4"
+      },
+      "expiry": 1661889409761
+    },
+    "/home/adrian/code/PyStart/venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.2 64-bit ('venv': venv)",
+        "hash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4-00d1421b24557d62bccc1af59ccc78cc"
+      },
+      "expiry": 1661889410344
+    },
+    "/home/adrian/code/PyStart/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.2 64-bit ('venv': venv)",
+        "hash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4-89a417890b6c7d408e0330fed4a1f7c7"
+      },
+      "expiry": 1661889422731
+    },
+    "/home/adrian/code/PyStart/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4",
+        "info": {
+          "architecture": 3,
+          "path": "/home/adrian/code/PyStart/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.2-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.2-final"
+          },
+          "sysPrefix": "/home/adrian/code/PyStart/venv",
+          "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.10.2 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1661889422782
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
+      "architecture": 3,
+      "path": "/home/adrian/code/PyStart/venv/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.2-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.2-final"
+      },
+      "sysPrefix": "/home/adrian/code/PyStart/venv",
+      "fileHash": "4e9996f8a1a5ee448574a0cf6dd2726f0789a48c043a0a04baba6d1a293bb4d781999e212ce66774c1b9be795af8a9a6db363b5eea5597e40d8e1ea5a0d2f4c6",
+      "envName": "venv",
+      "type": "Venv"
+    }
   },
   "coc-python|/home/adrian/coding/zoom-automatic": {
     "INTERPRETERS_CACHE_v3_PipEnvService:9c0fe62cbf9420fb9c73d04ae1372a82": [],
@@ -1438,5 +1611,185 @@
     },
     "INTERPRETERS_CACHE_v3_PipEnvService": [],
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "@yaegassy/coc-volar|/home/adrian/code/vue-portafolio": {
+    "coc-volar-ts-server-path": "/home/adrian/.config/coc/extensions/node_modules/@yaegassy/coc-volar/node_modules/typescript/lib/tsserverlibrary.js"
+  },
+  "coc-python|/home/adrian/code/PyStart": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f0d8e2ee44ff815eb0436e6197a6f89a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f0d8e2ee44ff815eb0436e6197a6f89a": [
+      {
+        "architecture": 3,
+        "path": "/home/adrian/code/PyStart/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.2-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.2-final"
+        },
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/adrian/code/PyStart/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.2-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.2-final"
+        },
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/adrian/code/PyStart/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.2-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.2-final"
+        },
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "4e9996f8a1a5ee448574a0cf6dd2726f0789a48c043a0a04baba6d1a293bb4d781999e212ce66774c1b9be795af8a9a6db363b5eea5597e40d8e1ea5a0d2f4c6",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/adrian/code/PyStart": {
+      "architecture": 3,
+      "path": "/home/adrian/code/PyStart/venv/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.2-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.2-final"
+      },
+      "sysPrefix": "/home/adrian/code/PyStart/venv",
+      "fileHash": "4e9996f8a1a5ee448574a0cf6dd2726f0789a48c043a0a04baba6d1a293bb4d781999e212ce66774c1b9be795af8a9a6db363b5eea5597e40d8e1ea5a0d2f4c6",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/adrian/code/PyStart/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.2-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.2-final"
+        },
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/adrian/code/PyStart/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.2-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.2-final"
+        },
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "35f29ced67b3f3c5ae825ff0d413a57caab0d5078ebea0e5f8200ad7c53864eec2a9847b38c2f11d05368764e260d68702b611a7166cbb16804fdec842ec3ca4",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/adrian/code/PyStart/venv/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.2-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.2-final"
+        },
+        "sysPrefix": "/home/adrian/code/PyStart/venv",
+        "fileHash": "4e9996f8a1a5ee448574a0cf6dd2726f0789a48c043a0a04baba6d1a293bb4d781999e212ce66774c1b9be795af8a9a6db363b5eea5597e40d8e1ea5a0d2f4c6",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/adrian/code/PyStart/venv/bin/python3"
   }
 }

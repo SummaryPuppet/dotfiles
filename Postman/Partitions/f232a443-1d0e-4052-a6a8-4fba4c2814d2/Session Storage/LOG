@@ -1,3 +1,3 @@
-2022/07/18-22:30:49.972 1526 Reusing MANIFEST /home/adrian/.config/Postman/Partitions/f232a443-1d0e-4052-a6a8-4fba4c2814d2/Session Storage/MANIFEST-000001
-2022/07/18-22:30:50.013 1526 Recovering log #3
-2022/07/18-22:30:50.069 1526 Reusing old log /home/adrian/.config/Postman/Partitions/f232a443-1d0e-4052-a6a8-4fba4c2814d2/Session Storage/000003.log 
+2022/08/17-23:33:29.461 1466 Reusing MANIFEST /home/adrian/.config/Postman/Partitions/f232a443-1d0e-4052-a6a8-4fba4c2814d2/Session Storage/MANIFEST-000001
+2022/08/17-23:33:29.502 1466 Recovering log #3
+2022/08/17-23:33:29.513 1466 Reusing old log /home/adrian/.config/Postman/Partitions/f232a443-1d0e-4052-a6a8-4fba4c2814d2/Session Storage/000003.log 

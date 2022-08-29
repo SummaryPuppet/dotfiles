@@ -30,7 +30,7 @@ keys = [
     Key([mod, "shift"], "l", lazy.layout.shuffle_right(), desc="Move window to the right"),
     Key([mod, "shift"], "j", lazy.layout.shuffle_down(), desc="Move window down"),
     Key([mod, "shift"], "k", lazy.layout.shuffle_up(), desc="Move window up"),
-    
+
     # Grow windows 
     Key([mod, "control"], "h", lazy.layout.grow_left(), desc="Grow window to the left"),
     Key([mod, "control"], "l", lazy.layout.grow_right(), desc="Grow window to the right"),
@@ -62,11 +62,11 @@ keys = [
 
     # Open Firefox
     Key([mod], "f", lazy.spawn("firefox")),
-    
+
     # Rofi (Menu)
     Key([mod], "m", lazy.spawn("rofi -show run")),
     Key([mod, "shift"], "m", lazy.spawn("rofi -show")),
-    
+
     # Brightness
     Key([], "XF86MonBrightnessUp", lazy.spawn("brightnessctl set +10%")),
     Key([], "XF86MonBrightnessDown", lazy.spawn("brightnessctl set 10%-")),
@@ -99,7 +99,7 @@ for i, group in enumerate(groups):
             Key(
                 [mod, "shift"],
                 num_desktop,
-                
+
                 lazy.window.togroup(group.name, switch_group=True),
                 desc="Switch to & move focused window to group {}".format(group.name),
             ),
@@ -128,7 +128,7 @@ layouts = [
 ]
 
 widget_defaults = dict(
-    font="sans",
+    font="Caskaydia Cove Nerd Font Complete",
     fontsize=16,
     padding=3,
 )
@@ -161,7 +161,7 @@ screens = [
                 ),
                 widget.Systray(),
                 widget.Clock(
-                    format="%d/%m/%Y - %I:%M %p", 
+                    format="%d/%m/%Y - %I:%M %p",
                     foreground="#0000ff"
                 ),
                 #widget.QuickExit(),

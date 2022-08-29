@@ -29,3 +29,6 @@ colors:
   cursor:
     text: "0x002635"
     cursor: "0xffcc1b"
+
+window:
+  opacity: 0.87
